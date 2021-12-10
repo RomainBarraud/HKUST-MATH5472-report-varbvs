@@ -1,6 +1,6 @@
 # HKUST-MATH5472-report-varbvs
 
-**HKUST MATH5472 Fall 2021 report - varbs**
+**HKUST MATH5472 Fall 2021 report - arbvs: Fast Variable Selection for Large-scale Regression**
 
 ## **Author**
 
