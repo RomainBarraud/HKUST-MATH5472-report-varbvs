@@ -31,12 +31,11 @@ Project report for MATH5472 Computer-Age Statistical Inference, Fall 2021
 
 ## **Repository structure**
 
-|-- MATH5472 report Romain BARRAUD - varbs.pdf  
+|-- MATH5472_report_Romain_BARRAUD_varbs.pdf  
 |-- MATH5472_report_varbvs_Romain_Barraud.Rmd  
 |-- MATH5472_report_varbvs_Romain_Barraud.html  
 |-- cytokine.Rmd  
 |-- leukemia.RData  
-|-- varbvs_report.tex  
 |-- LICENSE  
 |-- README.md  
 
